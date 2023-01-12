@@ -1,5 +1,3 @@
-<img src="https://img.shields.io/badge/텍스트-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
-
 ### Hi there 👋
 
 <!--
