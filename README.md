@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/텍스트-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
+
 ### Hi there 👋
 
 <!--
@@ -15,4 +17,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![yongseo0703@gmial.com's github stats](https://github-readme-stats.vercel.app/api?username=youngseo0703@gmail.com&show_icons=true)
