@@ -1,8 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=@ysparrk&fontSize=90" />
 
 
-### Hi there 👋
-I'm occupational therapist.
+# Hi there 👋
+👩🏻‍⚕️ I'm Occupational Therapist.
+🌱 I’m currently learning programming.
+🤔 I'm intertested in Community-Based Rehabilitaion.
 
 <!--
 **ysparrk/ysparrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
