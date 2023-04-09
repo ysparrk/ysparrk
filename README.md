@@ -2,6 +2,7 @@
 
 
 ### Hi there 👋
+I'm occupational therapist.
 
 <!--
 **ysparrk/ysparrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
