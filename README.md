@@ -4,7 +4,7 @@
 # Hi there 👋
 👩🏻‍⚕️ I'm Occupational Therapist.  
 🌱 I’m currently learning Python & Java.
-<hr>
+<br>
 😄 I'm intertested in Community-Based Rehabilitaion.   
 
 <!--
