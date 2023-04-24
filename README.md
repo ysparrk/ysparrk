@@ -3,8 +3,8 @@
 
 # Hi there 👋
 👩🏻‍⚕️ I'm Occupational Therapist.  
-🌱 I’m currently learning programming.   
-🤔 I'm intertested in Community-Based Rehabilitaion.   
+🌱 I’m currently learning Python & Java.
+😄 I'm intertested in Community-Based Rehabilitaion.   
 
 <!--
 **ysparrk/ysparrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
