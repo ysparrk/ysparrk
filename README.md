@@ -8,6 +8,8 @@
 
 😄 I'm intertested in Community-Based Rehabilitaion.   
 
+📫 How to reach me: youngseo0703@gmail.com
+
 <!--
 **ysparrk/ysparrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
