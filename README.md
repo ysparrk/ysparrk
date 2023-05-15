@@ -1,7 +1,7 @@
 
 
 
-# Hi I'm Youngseo Park 👋
+# Hi I'm Youngseo Park
 👩🏻‍⚕️ I'm Occupational Therapist. 
 
 🌱 I’m currently learning Python & Java.
