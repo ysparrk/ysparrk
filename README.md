@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Python & Java.
 
-😄 I'm intertested in Community-Based Rehabilitaion.   
+😄 I'm intertested in Digital Healthcare Service & Community-Based Rehabilitaion.   
 
 📫 How to reach me : youngseo0703@gmail.com
 
