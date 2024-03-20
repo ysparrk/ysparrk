@@ -5,7 +5,7 @@
 
 
 <div align=center>
-  <p>👩🏻‍⚕️ I'm Occupational Therapist.</p>
+  
   <p>🌱 I’m currently learning Python & Java.</p>
   <p>😄 I'm intertested in Digital Healthcare Service & Community-Based Rehabilitaion.</p>
   <p>📫 How to reach me : youngseo0703@gmail.com</p>
@@ -65,7 +65,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=@ysparrk&fontSize=90" />
 Here are some ideas to get you started:
-
+<p>👩🏻‍⚕️ I'm Occupational Therapist.</p>
 I'm occupational therapist.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
