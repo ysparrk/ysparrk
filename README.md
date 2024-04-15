@@ -12,7 +12,7 @@
 
 
 
-<div align=left>
+<div>
   <h3>Tech Stack</h3>
   <h5>Backend</h5> 
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -26,6 +26,7 @@
   <div>
   <h5>Database</h5>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
+    <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white"/>
   </div>
   <div>
   <h5>Infra</h5>
