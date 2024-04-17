@@ -1,19 +1,19 @@
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080ff,10:0000ff,30:3b82db,75:abcdef,100:cce6ff&height=100&section=header&text=&fontSize=0" width="100%"/>
 
+### 💻 Backend Developer 💻
+    Hi there! I'm Youngseo Park.
+    I am a backend developer using Spring & Java.🌿
+    My dream is to develop services that improve people's lives through technology.👨‍👩‍👧‍👦
+</br>
 
-# Hi I'm Youngseo Park
-
-
+<img alt="Gmail" src 
+="https://img.shields.io/badge/youngseo0703@gmail.com-EA4335.svg?&style=flatten&logo=Gmail&logoColor=white"/>
+<a href = "https://velog.io/@ysparrk/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /></a>
+</br>
+---
 <div>
-  <p>🌱 I’m currently learning Java.</p>
-  <p>📫 How to reach me : youngseo0703@gmail.com</p>
-  <hr>
-</div>	
-
-
-
-<div>
-  <h3>Tech Stack</h3>
+  <h3>🛠️ Tech Stacks 🛠️</h3>
   <h5>Backend</h5> 
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
@@ -55,9 +55,10 @@
     <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white"/> 
     <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 </div>
-
-
+</br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0080ff,10:0000ff,30:3b82db,75:abcdef,100:cce6ff&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 
 <!--
