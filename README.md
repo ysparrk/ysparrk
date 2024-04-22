@@ -7,11 +7,10 @@
     My dream is to develop services that improve people's lives through technology.👨‍👩‍👧‍👦
 </br>
 
-<img alt="Gmail" src 
-="https://img.shields.io/badge/youngseo0703@gmail.com-EA4335.svg?&style=flatten&logo=Gmail&logoColor=white"/>
-<a href = "https://velog.io/@ysparrk/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /></a>
-</br>
+<img alt="Gmail" src="https://img.shields.io/badge/youngseo0703@gmail.com-EA4335.svg?&style=flatten&logo=Gmail&logoColor=white"/>
+
 ---
+
 <div>
   <h3>🛠️ Tech Stacks 🛠️</h3>
   <h5>Backend</h5> 
@@ -58,10 +57,34 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 </div>
 </br>
+
+
+<div>
+    <h3>🏆 Certificate</h3>
+<table>
+  <tr>
+     <th algin="center">취득일</th>
+     <th algin="center">내용</th>
+  </tr>
+
+  <tr>
+     <td algin="center">
+        2024.04.05
+    </td>
+     <td algin="center">
+        SQLD(SQL 개발자)
+    </td>
+  </tr>
+</table>
+</div>
+
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0080ff,10:0000ff,30:3b82db,75:abcdef,100:cce6ff&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 
 <!--
+
+<a href = "https://velog.io/@ysparrk/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /></a>
 **ysparrk/ysparrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p>😄 I'm intertested in Digital Healthcare Service & Community-Based Rehabilitaion.</p>
