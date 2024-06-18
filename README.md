@@ -69,12 +69,21 @@
 
   <tr>
      <td algin="center">
-        2024.04.05
+        2024. 04. 05
     </td>
      <td algin="center">
         SQLD(SQL 개발자)
     </td>
   </tr>
+  <tr>
+     <td algin="center">
+        2024. 06. 18
+    </td>
+     <td algin="center">
+        정보처리기사
+    </td>
+  </tr>
+  
 </table>
 </div>
 
