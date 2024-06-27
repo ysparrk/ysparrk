@@ -1,6 +1,3 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080ff,10:0000ff,30:3b82db,75:abcdef,100:cce6ff&height=100&section=header&text=&fontSize=0" width="100%"/>
-
 ### 💻 Backend Developer 💻
     Hi there! I'm Youngseo Park.
     I am a backend developer using Spring & Java.🌿
@@ -86,10 +83,6 @@
   
 </table>
 </div>
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0080ff,10:0000ff,30:3b82db,75:abcdef,100:cce6ff&height=40&section=footer&text=&fontSize=0" width="100%"/>
-
 
 <!--
 
