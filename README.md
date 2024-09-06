@@ -1,5 +1,4 @@
 ### 💻 Backend Developer 💻
-    Hi there! I'm Youngseo Park.
     I am a backend developer using Spring & Java.🌿
     My dream is to develop services that improve people's lives through technology.👨‍👩‍👧‍👦
 </br>
